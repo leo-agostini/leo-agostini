@@ -36,5 +36,5 @@ My name is Leonardo Agostini Costa and I’m a Front-end developer.
 
 # My Porfolio!
 
-[![Leo-byte-rgb](https://portfolio-six-ashy-15.vercel.app/)]
+[Portfolio](https://portfolio-six-ashy-15.vercel.app/)]
 
