@@ -34,7 +34,7 @@ My name is Leonardo Agostini Costa and I’m a Front-end developer.
 <code><img height="20" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></code>
 
-# [My Portfolio!](https://portfolio-six-ashy-15.vercel.app/)
+# [My Portfolio!](https://portfolio-six-ashy-15.vercel.app/) <img src=https://media4.giphy.com/media/hQidaBLsDmFXVSF9OU/200.gif width="30">
 
 
 
