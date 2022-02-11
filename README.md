@@ -1,4 +1,5 @@
-# Hey, Dev!
+# Hey, Dev! <img src=https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif width="30">
+
 
 ---
 
@@ -21,7 +22,6 @@ My name is Leonardo Agostini Costa and I’m a Front-end developer.
 [![Leo-byte-rgb GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo-byte-rgb)](https://github.com/Leo-byte-rgb/github-readme-stats)
 [![Leo-byte-rgb Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-byte-rgb&layout=compact)](https://github.com/NOMEGIT/github-readme-stats)
 
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
 
 
