@@ -16,4 +16,6 @@ My name is Leonardo Agostini Costa and I’m a Front-end developer.
 
 💭 My dream is become a Sênior Fullstack developer.
 
-[![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo-byte-rgb)](https://github.com/Leo-byte-rgb/github-readme-stats)
+[![Leo-byte-rgb GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo-byte-rgb)](https://github.com/Leo-byte-rgb/github-readme-stats)
+[![Leo-byte-rgb GitHub stats](https://github-readme-stats.vercel.app/api?username=NOMEGIT)](https://github.com/NOMEGIT/github-readme-stats)
+
