@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hey, Dev!
 
-<!--
-**Leo-byte-rgb/Leo-byte-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+My name is Leonardo Agostini Costa and I’m a Front-end developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I'm Front-End Developer!
+
+🏠 I’m from Brazil.
+
+📗 I’m currently learning NodeJS, React Native and unit tests!.
+
+🎯 Goals: Learn every day how to write readable and better code.
+
+💕 Passionate about make lifes easier with code!
+
+💭 My dream is become a Sênior Fullstack developer.
